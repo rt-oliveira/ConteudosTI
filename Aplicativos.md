@@ -1,3 +1,5 @@
+[Retorna](README.md)
+
 # Lista de aplicativos para vários tópicos da TI
 
 |                                     Nome                                     |                                                 Descrição                                                  |

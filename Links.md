@@ -1,3 +1,5 @@
+[Retorna](README.md)
+
 # Lista de links sobre vários tópicos do TI
 
 - [Ambientes de Programação](#ambientes-de-programa%C3%A7%C3%A3o)
