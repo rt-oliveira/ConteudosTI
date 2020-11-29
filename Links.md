@@ -390,13 +390,3 @@
 | [VirtualBox Images](https://www.osboxes.org/virtualbox-images/)      | Este site possui máquinas virtuais pré-instaladas de várias distribuições Linux, para seu uso, tanto no VirtualBox, quanto no VMWare.                                                                                                                                            |
 
 <a href="#">Topo</a>
-
----
-
-### Créditos
-
-Alguns desses links que estão nesse gist foram descobertos por causa de:
-
-- Grupo CodeWalkers (grupo do Telegram que reúne pessoas que estudam ou trabalham na área de programação)
-- [Canal do Youtube Código Fonte TV](https://www.youtube.com/user/codigofontetv) (Um ótimo canal sobre programação e tecnologia)
-- [Canal do Youtube Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)

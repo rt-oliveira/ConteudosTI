@@ -4,3 +4,13 @@ Este repositório contemplará uma coleção de links, aplicativos, e vários ou
 
 - [Clique aqui para ver os links](Links.md)
 - [Clique aqui para ver os aplicativos](Aplicativos.md)
+
+---
+
+### Créditos
+
+Alguns desses links que estão nesse repositório foram descobertos por causa de:
+
+- Grupo CodeWalkers (grupo do Telegram que reúne pessoas que estudam ou trabalham na área de programação)
+- [Canal do Youtube Código Fonte TV](https://www.youtube.com/user/codigofontetv) (Um ótimo canal sobre programação e tecnologia)
+- [Canal do Youtube Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
