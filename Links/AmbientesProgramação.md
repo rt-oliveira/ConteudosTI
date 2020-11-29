@@ -1,4 +1,4 @@
-[Retorna](..\README.md)
+[Retorna](../README.md)
 
 # Ambientes de Programação
 
