@@ -3,8 +3,6 @@
 # Lista de links sobre vários tópicos do TI
 
 - [Conteúdos Variados](#conte%C3%BAdos-variados)
-- [Cursos](#cursos)
-	- [Outros links](#outros-links-cursos)
 - [Guias e Livros](#guias-e-livros)
 - [Ideias de Projeto](#ideias)
 - [Mundo Open-Source](#mundo-open-source)
@@ -35,63 +33,6 @@
 | [TIOBE](https://www.tiobe.com/tiobe-index/)                                                                        | Este site mostra um ranking das linguagens de programação mais populares no mundo, mês a mês.<br>Serve como uma boa curiosidade e pode ajudar a "traçar caminhos" nos seus estudos.                            |
 | [VisuAlgo](https://visualgo.net/en)                                                                                | Site conhecido por oferecer simulações de execução de estruturas de dados e algoritmos famosos.                                                                                                                |
 </details>
-
-<a href="#">Topo</a>
-
-# Cursos
-
-<details>
-
-|                                   Site                                   |                                                                                          Descrição                                                                                          |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AcademIA](https://www.microsoft.com/pt-br/academia)                     | Site com vários cursos, voltados para a área de Inteligência Artifical.                                                                                                                     |
-| [Balta.io](https://balta.io/)                                            | Plataforma de cursos de André Baltieri, com vários cursos voltados para web.                                                                                                                |
-| [Brasil + Digital](http://www.brasilmaisdigital.org.br/index.php/pt-br/) | Site com vários cursos, de vários tópicos de TI, como Programação, Engenharia de Software, e outros. Tem cursos da Microsoft.                                                               |
-| [Canal do Ensino](https://canaldoensino.com.br/blog/)                    | É um site que contém várias matérias, com dicas de cursos online de várias áreas, inclusive TI.                                                                                             |
-| [Certificações NET.BR](https://true.certificacoes.net.br/linuxltc1/)     | Plataforma com cursos voltados para Linux e servidores.                                                                                                                                     |
-| [CFB Cursos](http://cfbcursos.com.br/)                                   | Um site com alguns cursos postados principalmente [em seu canal do YouTube](https://www.youtube.com/user/canalfessorbruno/).                                                                |
-| [Class Central](https://www.classcentral.com/)                           | Site que abrange cursos de plataformas online, sobre várias áreas, de modo a ajudar as pessoas a escolherem os melhores cursos.                                                             |
-| [ClassPert](https://pt-br.classpert.com/)                                | Um site que tem uma função similar ao site acima. [Este site reúne os cursos da área de Ciência da Computação](https://pt-br.classpert.com/computer-science)                                |
-| [Codecademy](https://www.codecademy.com/)                                | Um site que possui um bom catálogo de cursos grátis e pagos, focados na área de Programação e Data Science.                                                                                 |
-| [Coursera](https://www.coursera.org/)                                    | Uma das mais conhecidas plataformas de cursos online, com cursos de universidades renomadas, e em várias áreas do conhecimento, inclusive TI.                                               |
-| [CourseTalk](https://www.coursetalk.com/)                                | Mais um site que agrega cursos online de várias plataformas. Nesse site, é possível dar notas aos cursos, para ajudar as pessoas a escolherem os melhores cursos online.                    |
-| [Curso em Vídeo](https://www.cursoemvideo.com/)                          | Site com vários cursos gratuitos de tecnologia. Possuem inclusive [canal no YouTube](https://www.youtube.com/user/cursosemvideo).                                                           |
-| [Cursos iPED](https://www.iped.com.br/)                                  | Plataforma uma vários cursos (gratuitos e pagos) de várias áreas do conhecimento, inclusive tecnologia.                                                                                     |
-| [Cursou](https://www.cursou.com.br/)                                     | Plataforma com mais de 2500 (segundo o site) cursos grátis.                                                                                                                                 |
-| [Cybrary](https://www.cybrary.it/)                                       | Site com contém uma boa quantidade de cursos, principalmente focados em segurança.                                                                                                          |
-| [Digital Innovation One](https://digitalinnovation.one/)                 | Plataforma com cursos gratuitos na área de desenvolvimento.                                                                                                                                 |
-| [Eduonix](https://www.eduonix.com/)                                      | Uma plataforma de cursos online similar a Udemy, com uma boa gama de cursos online.                                                                                                         |
-| [edX](https://www.edx.org/)                                              | Uma plataforma com vários cursos online, de algumas das maiores universidades do mundo.<br>[Este link se refere aos cursos da Universidade de Harvard](https://www.edx.org/school/harvardx) |
-| [Elements of AI](https://www.elementsofai.com/)                          | Site que contém cursos sobre Inteligência Artificial. Criado pela Universidade de Helsinki.                                                                                                 |
-| [EspecializaTI Academy](https://academy.especializati.com.br/)           | Site com cursos e tutoriais gratuitos.                                                                                                                                                      |
-| [EstudarAgora.com](https://www.estudaragora.com/)                        | Um site que lista os cursos gratuitos (em português) que existem na Udemy.                                                                                                                  |
-| [Free Courses](https://freecourses.github.io/)                           | Site com uma lista de cursos grátis sobre vários assuntos de programação.                                                                                                                   |
-| [freeCodeCamp](https://www.freecodecamp.org/learn/)                      | Site com muitos cursos, e com certificações. [Outro link para acesso](https://www.freecodecamp.org/).                                                                                       |
-| [Hackr.io](https://hackr.io/)                                            | É um site que abrange cursos e tutoriais de várias fontes para ajudar as pessoas nos estudos.                                                                                               |
-| [Help&Learn](https://www.helpnlearn.com.br/home)                         | Um site que ajuda as pessoas a escolherem os melhores cursos, mostrando avaliações deles, e seu preço.                                                                                      |
-| [Jornada do Dev](https://jornadadodev.com.br/)                           | Site com vários cursos gratuitos de vários itens de programação.                                                                                                                            |
-| [Kultivi](https://www.kultivi.com/)                                      | Plataforma de cursos grátis. Oferece, inclusive, curso de inglês grátis, com certificado.                                                                                                   |
-| [Learn Café](https://www.learncafe.com/)                                 | Site com uma grande quantidade de cursos (online e pagos), com certificado.                                                                                                                 |
-| [LetsFindCourse](https://letsfindcourse.com/)                            | Um site para encontrar os melhores cursos e tutoriais acerca de vários tópicos de programação.                                                                                              |
-| [Loiane.training](https://loiane.training/)                              | Site com cursos de Java, Angular, entre outros. Tem relação com a Loiane, que é dona de um canal no YouTube.                                                                                |
-| [RocketSeat](https://rocketseat.com.br/)                                 | Site com cursos relacionados ao JavaScript. Possuem o Starter, que são cursos gratuitos, e o Bootcamp, que é um treinamento intensivo na *stack* baseada em JS.                             |
-| [Scrimba](https://scrimba.com/)                                          | Plataforma com vários cursos, principalmente web. O interessante dele é que há console e browser interno.                                                                                   |
-| [SoloLearn](https://www.sololearn.com/)                                  | Site com alguns cursos grátis de programação. Inclusive possuem aplicativo de celular, para estudos em qualquer lugar.                                                                      |
-| [Torne-se um Programador](http://www.torneseumprogramador.com.br/)       | Plataforma com vários cursos grátis: de SQL Server, JavaScript, e outros.                                                                                                                   |
-| [Udacity](https://www.udacity.com/)                                      | Plataforma contendo muitos cursos voltados para a área de tecnologia.                                                                                                                       |
-| [Udemy](https://www.udemy.com/)                                          | Um dos sites de cursos online mais conhecidos, com cursos de várias áreas do conhecimento, inclusive TI.                                                                                    |
-| [Upcase](https://thoughtbot.com/upcase)                                  | Um site alguns cursos e "trilhas" de estudos, todos relativos a programação e itens relacionados.                                                                                           |
-| [Upskill](https://upskillcourses.com/)                                   | Site com cursos gratuitos e pagos, voltados para o desenvolvimento web.                                                                                                                     |
-| [YouCourse](https://youcourse.com.br/)                                   | Site com vários cursos, de várias áreas do conhecimento, inclusive TI.                                                                                                                      |
-</details>
-
-<a href="#">Topo</a>
-
-## <a name="outros-links-cursos"></a>Outros links
-
-| Site                                     | Descrição                                                                                                                                                                                                                                                                                                                                                                                                 |
-|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cursos de Programação gratuitos na Udemy | Os links aqui mostram alguns dos mais bem ranqueados cursos de programação na Udemy que estão gratuitos.<br>[Este link mostra os cursos em português](https://www.udemy.com/courses/development/?lang=pt&locale=pt_BR&price=price-free&sort=highest-rated)<br>[Este link mostra os cursos em inglês](https://www.udemy.com/courses/development/?lang=en&locale=en_US&price=price-free&sort=highest-rated) |
 
 <a href="#">Topo</a>
 
