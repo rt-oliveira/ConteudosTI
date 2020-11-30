@@ -3,7 +3,6 @@
 # Lista de links sobre vários tópicos do TI
 
 - [Ideias de Projeto](#ideias)
-- [Mundo Open-Source](#mundo-open-source)
 - [Vagas](#vagas)
 
 # <a name="ideias"></a>Ideias de Projeto

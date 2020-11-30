@@ -13,6 +13,7 @@ Este repositório contemplará uma coleção de links, aplicativos, e vários ou
     - [Repositórios GitHub](Links/Repositórios.md)
     - [Tutoriais](Links/Tutoriais.md)
     - [YouTube](Links/YouTube.md)
+    - [Vagas](Links/Vagas.md)
     - [Outros links](Links/Outros.md)
 
 - [Clique aqui para ver os links](Links.md)
