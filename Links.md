@@ -5,7 +5,6 @@
 - [Conteúdos Variados](#conte%C3%BAdos-variados)
 - [Ideias de Projeto](#ideias)
 - [Mundo Open-Source](#mundo-open-source)
-- [Tutoriais](#tutoriais)
 - [Vagas](#vagas)
 - [Outros links](#outros-links-1)
 
@@ -55,30 +54,6 @@
 | [First Timers Only](https://www.firsttimersonly.com/) | Uma página que concentra sites para ajudar os programadores a iniciarem no mundo das contribuições de projetos open-source.                                     |
 | [Issuehub](http://issuehub.io/)                       | Um site que procura por *issues* que contenham determinadas *labels* nos repositórios, a fim de ajudar quem quer contribuir com algum projeto open-source.      |
 | [Opensource.builders](https://opensource.builders/)   | Um site que mostra uma variedade de opções open-source para algumas das mais famosas aplicações do mercado.                                                     |
-
-<a href="#">Topo</a>
-
-# Tutoriais
-
-|                             Site                            |                                                                                                                   Descrição                                                                                                                    |
-|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [9tut](https://www.9tut.com/)                               | Um site com vários tutoriais relacionados a área de Redes.                                                                                                                                                                                     |
-| [Cprogramming.com](https://www.cprogramming.com/)           | Um site com tutoriais para as linguagens C e C++.                                                                                                                                                                                              |
-| [eduCBA](https://www.educba.com/)                           | Um site que oferece cursos e tutoriais, alguns grátis, alguns pagos.<br>[Esta é o link para a área específica de TI](https://www.educba.com/software-development/software-development-tutorials/)                                              |
-| [Google Codelabs](https://codelabs.developers.google.com/)  | Um site da Google com uma grande coleção de tutoriais práticos, para vários itens, como TensorFlow, Android, entre outros...                                                                                                                   |
-| [Guru99](https://www.guru99.com/)                           | Um site com uma boa quantidade de tutoriais.                                                                                                                                                                                                   |
-| [JavaScript.info](https://javascript.info/)                 | Um grande tutorial da linguagem JavaScript, uma das mais usadas no mundo atualmente.                                                                                                                                                           |
-| [JavaTPoint](https://www.javatpoint.com/)                   | Um site com tutoriais sobre vários itens, como Bancos de Dados, Linguagens de Programação, entre outros.                                                                                                                                       |
-| [Learn CSS Layout](http://learnlayout.com/)                 | Um site que mostra os fundamentos de CSS, usados em qualquer layout de site.                                                                                                                                                                   |
-| [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)  | Possui vários tutoriais e conteúdos para aprender sobre os produtos Microsoft.                                                                                                                                                                 |
-| [Programiz](https://www.programiz.com/)                     | Um bom site de tutoriais.                                                                                                                                                                                                                      |
-| [Quackit](https://www.quackit.com/)                         | Contém tutoriais de linguagens e tecnologias, como HTML, CSS, JavaScript, jQuery, e outros.                                                                                                                                                    |
-| [Tutorials Point](https://www.tutorialspoint.com/index.htm) | Um dos maiores, se não o maior site de tutoriais, com conteúdos em várias áreas, desde TI até conteúdos escolares.<br>[Aqui pode ser vista a biblioteca de tutoriais disponíveis no site](https://www.tutorialspoint.com/tutorialslibrary.htm) |
-| [TutorialsTeacher](https://www.tutorialsteacher.com/)       | Um site com alguns tutoriais voltados para o desenvolvimento web.                                                                                                                                                                              |
-| [Video Tutorials Point](http://videotutorialspoint.com/)    | Site com uma coletânea de tutoriais em vídeo, sobre vários assuntos.                                                                                                                                                                           |
-| [W3Resource](https://www.w3resource.com/)                   | Site com uma boa quantidade de tutoriais.                                                                                                                                                                                                      |
-| [W3Schools](https://www.w3schools.com/)                     | Site com vários tutoriais, principalmente voltados para a parte de desenvolvimento Web.                                                                                                                                                        |
-| [W3Schools](https://w3schools.sinsixx.com/default.asp.htm)  | Site que possui o mesmo nome do anterior, mas são diferentes. Assim como o anterior, possui alguns tutoriais, como de HTML, CSS, SQL, e outros.                                                                                                |
 
 <a href="#">Topo</a>
 

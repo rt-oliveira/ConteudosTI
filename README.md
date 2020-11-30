@@ -9,6 +9,7 @@ Este repositório contemplará uma coleção de links, aplicativos, e vários ou
     - [Guias e Livros](Links/GuiasLivros.md)
     - [Notícias e Matérias](Links/Notícias.md)
     - [Repositórios GitHub](Links/Repositórios.md)
+    - [Tutoriais](Links/Tutoriais.md)
     - [YouTube](Links/YouTube.md)
 
 - [Clique aqui para ver os links](Links.md)
