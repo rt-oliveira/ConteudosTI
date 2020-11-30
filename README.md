@@ -6,6 +6,7 @@ Este repositório contemplará uma coleção de links, aplicativos, e vários ou
     - [Ambientes de Programação](Links/AmbientesProgramação.md)
     - [Cursos](Links/Cursos.md)
     - [Desafios de Programação (Programação Competitiva)](Links/DesafiosProgramação.md)
+    - [Guias e Livros](Links/GuiasLivros.md)
     - [Notícias e Matérias](Links/Notícias.md)
     - [Repositórios GitHub](Links/Repositórios.md)
     - [YouTube](Links/YouTube.md)
