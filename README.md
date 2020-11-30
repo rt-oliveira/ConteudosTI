@@ -8,6 +8,7 @@ Este repositório contemplará uma coleção de links, aplicativos, e vários ou
     - [Cursos](Links/Cursos.md)
     - [Desafios de Programação (Programação Competitiva)](Links/DesafiosProgramação.md)
     - [Guias e Livros](Links/GuiasLivros.md)
+    - [Mundo Open-Source](Links/MundoOpenSource.md)
     - [Notícias e Matérias](Links/Notícias.md)
     - [Repositórios GitHub](Links/Repositórios.md)
     - [Tutoriais](Links/Tutoriais.md)
