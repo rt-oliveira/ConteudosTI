@@ -3,8 +3,9 @@
 Este repositório contemplará uma coleção de links, aplicativos, e vários outros conteúdos relativos a vários tópicos de TI, como programação, entre outros.
 
 - Links
-    + [Ambientes de Programação](Links/AmbientesProgramação.md)
-    + [Desafios de Programação (Programação Competitiva)](Links/DesafiosProgramação.md)
+    - [Ambientes de Programação](Links/AmbientesProgramação.md)
+    - [Desafios de Programação (Programação Competitiva)](Links/DesafiosProgramação.md)
+    - [Notícias e Matérias](Links/Notícias.md)
 
 - [Clique aqui para ver os links](Links.md)
 - [Clique aqui para ver os aplicativos](Aplicativos.md)
