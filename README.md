@@ -4,6 +4,7 @@ Este repositório contemplará uma coleção de links, aplicativos, e vários ou
 
 - Links
     - [Ambientes de Programação](Links/AmbientesProgramação.md)
+    - [Conteúdos Variados](Links/ConteúdosVariados.md)
     - [Cursos](Links/Cursos.md)
     - [Desafios de Programação (Programação Competitiva)](Links/DesafiosProgramação.md)
     - [Guias e Livros](Links/GuiasLivros.md)
