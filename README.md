@@ -1,6 +1,6 @@
 # Conteúdos TI
 
-Este repositório contemplará uma coleção de links, aplicativos, e vários outros conteúdos relativos a vários tópicos de TI, como programação, entre outros.
+Este repositório contemplará uma coleção de links, aplicativos, dicas, e vários outros conteúdos relativos a vários tópicos de TI, como programação, entre outros.
 
 - Links
     - [Ambientes de Programação](Links/AmbientesProgramação.md)
@@ -17,12 +17,13 @@ Este repositório contemplará uma coleção de links, aplicativos, e vários ou
     - [Vagas](Links/Vagas.md)
     - [Outros links](Links/Outros.md)
 - [Aplicativos](Aplicativos.md)
+- [Dicas](Dicas.md)
 
 ---
 
 ### Créditos
 
-Alguns desses links que estão nesse repositório foram descobertos por causa de:
+Alguns desses conteúdos que estão nesse repositório foram descobertos por causa de:
 
 - Grupo CodeWalkers (grupo do Telegram que reúne pessoas que estudam ou trabalham na área de programação)
 - [Canal do Youtube Código Fonte TV](https://www.youtube.com/user/codigofontetv) (Um ótimo canal sobre programação e tecnologia)
