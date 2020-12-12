@@ -1,7 +1,7 @@
 [Retorna](../README.md)
 
 # Cursos
-| Site                                                                     | Descrição                                                                                                                                                                                   |
+|                                   Site                                   |                                                                                          Descrição                                                                                          |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [AcademIA](https://www.microsoft.com/pt-br/academia)                     | Site com vários cursos, voltados para a área de Inteligência Artifical.                                                                                                                     |
 | [Balta.io](https://balta.io/)                                            | Plataforma de cursos de André Baltieri, com vários cursos voltados para web.                                                                                                                |
@@ -36,6 +36,7 @@
 | [Loiane.training](https://loiane.training/)                              | Site com cursos de Java, Angular, entre outros. Tem relação com a Loiane, que é dona de um canal no YouTube.                                                                                |
 | [Neps Academy](https://neps.academy)                                     | Um site que oferece alguns cursos de programação e desafios de programação para treinamento.                                                                                                |
 | [RocketSeat](https://rocketseat.com.br/)                                 | Site com cursos relacionados ao JavaScript. Possuem o Starter, que são cursos gratuitos, e o Bootcamp, que é um treinamento intensivo na *stack* baseada em JS.                             |
+| [Samsung OCEAN](http://www.oceanbrasil.com/online/)                      | Um site que oferece cursos gratuitos em áreas como programação e empreendedorismo. Um projeto da Samsung.                                                                                   |
 | [Scrimba](https://scrimba.com/)                                          | Plataforma com vários cursos, principalmente web. O interessante dele é que há console e browser interno.                                                                                   |
 | [SoloLearn](https://www.sololearn.com/)                                  | Site com alguns cursos grátis de programação. Inclusive possuem aplicativo de celular, para estudos em qualquer lugar.                                                                      |
 | [Torne-se um Programador](http://www.torneseumprogramador.com.br/)       | Plataforma com vários cursos grátis: de SQL Server, JavaScript, e outros.                                                                                                                   |
