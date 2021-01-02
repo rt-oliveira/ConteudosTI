@@ -26,11 +26,12 @@
 
 ## Outros
 
-| Repositório                                                                                           | Descrição                                                                                                                                         |
+|                                              Repositório                                              |                                                                     Descrição                                                                     |
 |-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [carolcodes/videos-pt.br-tecnologia](https://github.com/carolcodes/videos-pt.br-tecnologia)           | Repositório com uma coleção de links para canais do YouTube brasileiro da área de tecnologia.                                                     |
 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)                   | Um repositório que descreve boas práticas com o NodeJS.                                                                                           |
 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)                 | Repositório do projeto [Roadmap.sh](https://roadmap.sh/).                                                                                         |
+| [kelvins/design-patterns-python](https://github.com/kelvins/design-patterns-python)                   | Um repositório que mostra os padrões de projeto mais conhecidos em Python.                                                                        |
 | [michelbernardods/programming-challenges](https://github.com/michelbernardods/programming-challenges) | Repositório com uma coletânea de links de desafios de programação e de problemas de maratonas de programação.                                     |
 | [OfficialMarinho/Links-uteis](https://github.com/OfficialMarinho/Links-uteis)                         | Repositório com uma coleção de links que são úteis para o desenvolvimento de projetos.                                                            |
 | [okeeffed/developer-notes](https://github.com/okeeffed/developer-notes)                               | Repositório do projeto "Developer Notes", cujo site é [este](https://docs.dennisokeeffe.com/).                                                    |
