@@ -20,6 +20,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 | [4 robôs que criam vídeos no YouTube](https://www.youtube.com/playlist?list=PLMdYygf53DP4YTVeu0JxVnWq01uXrLwHi)                     | Filipe Deschamps                  |
 | [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Aprenda Go                        |
+| [Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)                                            | Ignorância Zero                   |
 | [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63)                                                      | VoidRealms                        |
 | [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)                                    | Bo Qian                           |
 | [C++ Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)                                            | Derek Banas                       |
