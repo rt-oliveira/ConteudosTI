@@ -4,12 +4,13 @@
 
 ## Ideias de Projeto
 
-| Repositório                                                                           | Descrição                                                                                                                    |
+|                                      Repositório                                      |                                                          Descrição                                                           |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | Repositório com vários tutoriais orientados, cujo objetivo é o aprendizado prático de linguagens, realizando práticas.       |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)                     | Repositório com várias ideias de projeto, divididas em níveis, e em cada uma delas com pequenos requisitos e desafios.       |
 | [karan/Projects](https://github.com/karan/Projects)                                   | Repositório que contém uma grande quantidade de ideias de projeto para os desenvolvedores.                                   |
 | [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions)               | Repositório que oferece algumas soluções para algumas ideias propostas no repositório acima.                                 |
+| [kkdai/project52](https://github.com/kkdai/project52)                                 | Repositório que mostra 52 projetos feitos pelo usuário do repositório, que podem servir de inspiração para projetos.         |
 | [tastejs/awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas)             | Repositório com várias ideias de programas/aplicativos para desenvolver.                                                     |
 | [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)   | Repositório com algumas ideias de projeto já implementadas em algumas linguagens para ajudar na aprendizagem de programação. |
 
