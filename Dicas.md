@@ -33,7 +33,7 @@ Endereço alterado: https://github1s.com/rt-oliveira/ConteudosTI
 <details>
     <summary>Estilos de nome que todo programador deveria saber...</summary>
 
-![Estilos de nome que todo programador deveria saber...](Imagens/estiloNomes.jpg =400x)
+![Estilos de nome que todo programador deveria saber...](Imagens/estiloNomes.jpg)
 
 **Fonte: facebook.com/TheHackUniversity**<br>
 **Visto no grupo CodeWalkers (Telegram)**
@@ -42,7 +42,7 @@ Endereço alterado: https://github1s.com/rt-oliveira/ConteudosTI
 <details>
 	<summary>Qual linguagem deveria estudar primeiro?</summary>
 
-![Qual linguagem deveria estudar primeiro?](Imagens/qualLinguagemEstudarPrimeiro.jpg =500x)
+![Qual linguagem deveria estudar primeiro?](Imagens/qualLinguagemEstudarPrimeiro.jpg)
 
 [Link original](https://pbs.twimg.com/media/ExPbjUPW8Ak3X4U?format=jpg&name=large)
 
