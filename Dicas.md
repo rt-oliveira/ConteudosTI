@@ -40,6 +40,25 @@ Endereço alterado: https://github1s.com/rt-oliveira/ConteudosTI
 </details>
 
 <details>
+	<summary>Faça projetos</summary>
+
+![Faça projetos](Imagens/façaProjetos.jpg)
+
+**Fonte https://instagram.com/berg.dev **<br>
+**Visto no grupo CodeWalkers (Telegram)**
+</details>
+
+<details>
+	<summary>Infográfico: What Code Should You Learn?</summary>
+
+![Infográfico: What Code Should You Learn?](Imagens/qualLinguagemEstudar.jpg)
+
+[Link original](https://i.pinimg.com/originals/fb/90/8f/fb908f9e0a932d4a123b62aa28f02ed9.jpg)
+
+**Fonte: visto no grupo CodeWalkers (Telegram)**
+</details>
+
+<details>
 	<summary>Qual linguagem deveria estudar primeiro?</summary>
 
 ![Qual linguagem deveria estudar primeiro?](Imagens/qualLinguagemEstudarPrimeiro.jpg)
