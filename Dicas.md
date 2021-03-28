@@ -49,6 +49,15 @@ Endereço alterado: https://github1s.com/rt-oliveira/ConteudosTI
 </details>
 
 <details>
+	<summary>Full Stack Developers Skills Breakdown</summary>
+
+![Full Stack Developers Skills Breakdown](Imagens/fullStackSkills.jpg)
+
+**Fonte: t.me/GuiaDev**<br>
+**Visto no grupo CodeWalkers (Telegram)**
+</details>
+
+<details>
 	<summary>Infográfico: What Code Should You Learn?</summary>
 
 ![Infográfico: What Code Should You Learn?](Imagens/qualLinguagemEstudar.jpg)
