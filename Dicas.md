@@ -12,7 +12,7 @@
 **Fonte: visto no grupo CodeWalkers (Telegram)**
 </details>
 
-<details open>
+<details>
 	<summary>Como visualizar um repositório em modo somente-leitura?</summary>
 
 **Para fazer isso, é preciso ter o endereço completo do repositório no GitHub.**
