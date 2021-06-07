@@ -4,20 +4,23 @@
 
 ## Em inglês
 
-| Notícia                                                                                                                                                                                          | Fonte        |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/) | freeCodeCamp |
-| [Study of Programming Languages Not to Learn in 2019](https://www.codementor.io/blog/worst-languages-2019-6mvbfg3w9x)                                                                            | CodeMentor   |
-| [Top YouTube playlist for Data Science and AI that you must check](https://www.linkedin.com/pulse/top-youtube-playlist-data-science-ai-you-must-check-mamdapure)                                 | LinkedIn     |
+| Notícia                                                                                                                                                                                          | Fonte                   |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------|
+| [A Curated Collection of Over 150 API’s to Build Great Products](https://benjamin-libor.medium.com/a-curated-collection-of-over-150-apis-to-build-great-products-fdcfa0f361bc)                   | Benjamin Libor - Medium |
+| [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/) | freeCodeCamp            |
+| [Starter Project Ideas for Developers](https://codeburst.io/starter-project-ideas-for-developers-760b5def1793)                                                                                   | codeburst.io            |
+| [Study of Programming Languages Not to Learn in 2019](https://www.codementor.io/blog/worst-languages-2019-6mvbfg3w9x)                                                                            | CodeMentor              |
+| [Top YouTube playlist for Data Science and AI that you must check](https://www.linkedin.com/pulse/top-youtube-playlist-data-science-ai-you-must-check-mamdapure)                                 | LinkedIn                |
 
 ## Em português
 
-|                                                                                                                             Notícia                                                                                                                             |         Fonte          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| Notícia                                                                                                                                                                                                                                                         | Fonte                  |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------|
 | [.NET 5 - Guia de Referência: artigos, vídeos e exemplos de utilização](https://renatogroffe.medium.com/net-5-guia-de-refer%C3%AAncia-artigos-v%C3%ADdeos-e-exemplos-de-utiliza%C3%A7%C3%A3o-2702336c9ec5)                                                      | Medium - Renato Groffe |
 | [1000 livros gratuitos sobre programação!](https://codigosimples.net/2016/02/12/1000-livros-gratuitos-sobre-programacao)                                                                                                                                        | Código Simples         |
 | [10 sites para melhorar sua habilidade em programação](http://techdicas.net.br/10-sites-para-melhorar-sua-habilidade-em-programacao/)                                                                                                                           | Tech Dicas             |
 | [133 Cursos para Download Gratis; Aproveite!](https://www.tecforest.com.br/133-cursos-para-download-gratis-aproveite/)                                                                                                                                          | TecForest              |
+| [15 Fun APIs For Your Next Project - DEV Community](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)                                                                                                                                               | Dev.to                 |
 | [250 cursos gratuitos da Udemy](https://programacaopratica.com.br/2019/03/23/250-cursos-gratuitos-da-udemy/)                                                                                                                                                    | Programação Prática    |
 | [825 cursos online universitários disponíveis de graça](https://canaldoensino.com.br/blog/825-cursos-online-universitarios-disponiveis-de-graca)                                                                                                                | Canal do Ensino        |
 | [9 sites para aprender a programar de graça](https://tecnoblog.net/304000/aprender-a-programar-de-graca/)                                                                                                                                                       | Tecnoblog              |

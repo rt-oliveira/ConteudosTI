@@ -2,8 +2,8 @@
 
 # Ideias de Projeto
 
-|                                                                         Site                                                                        |                                               Descrição                                                |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Site                                                                                                                                                | Descrição                                                                                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|
 | [10 Simple Java Projects for Beginners - Java Hungry](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)                     | Um site com uma lista de 10 ideias de projetos usando a linguagem Java.                                |
 | [21 React Project Ideas for Beginners - Dunebook](https://www.dunebook.com/react-project-ideas-for-beginners/)                                      | Um site com 23 ideias de projeto usando React.js.                                                      |
 | [42 Exciting Python Project Ideas & Topics for Beginners [2021] - upGrad blog](https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/) | Uma lista de 42 ideias de projeto usando a linguagem Python.                                           |
@@ -12,4 +12,5 @@
 | [Over 1,500 Coding Project Ideas](https://www.linuxtrainingacademy.com/projects/)                                                                   | Site com, como o título diz, mais de 1500 projetos de programação.                                     |
 | [Projetos (reais) para aprender programação](https://www.tiagogouvea.com.br/profissional/projetos-reais-aprender-programacao/)                      | Site com a descrição de algumas ideias de programação, todas com o nível de dificuldade, e requisitos. |
 | [Sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/)                                                                                   | Site que contém uma lista de ideias de aplicações web.                                                 |
+| [Side Projects That We Can Create With Free APIs](https://levelup.gitconnected.com/side-projects-that-we-can-create-with-free-apis-af33264f9eb)     | Uma matéria no Medium com algumas ideias de projeto usando APIs gratuitas.                             |
 | [Top 230 Android Projects - Beginner & Advanced Project Ideas - TechVidvan](https://techvidvan.com/tutorials/android-project-ideas/)                | Site que contém 230 ideias de projeto de aplicativos Android.                                          |
