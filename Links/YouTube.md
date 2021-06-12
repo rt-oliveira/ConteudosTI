@@ -4,6 +4,7 @@
 
 ## Canais
 
+- [Brazilian Dev](https://www.youtube.com/channel/UCkp0JNT8YeVnZHguGO5n5PA)
 - [BrazilJS](https://www.youtube.com/user/BrazilJS)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 - [Danilo Aparecido - Torne-se um programador](https://www.youtube.com/c/DaniloAparecido)
