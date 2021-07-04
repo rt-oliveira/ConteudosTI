@@ -2,6 +2,9 @@
 
 ## Artigos
 
-| Artigo                                                                                                         | Fonte                          | Descrição                                           |
-|:---------------------------------------------------------------------------------------------------------------|:-------------------------------|:----------------------------------------------------|
-| [50 Essential Tips for Every Developer.](https://dephraiim.hashnode.dev/50-essential-tips-for-every-developer) | Ephraim Atta-Duncan - HashNode | Um artigo importante para todos os desenvolvedores. |
+| Artigo                                                                                                                                                                                                         | Fonte                              | Descrição                                                                 |
+| :---------------------------------------------------------------------------------------------------------------                                                                                               | :-------------------------------   | :----------------------------------------------------                     |
+| [12 Clean Code Principles You Must Know to Be a Better Programmer](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)                                                           | Shoaib Mehedi - Better Programming | Um artigo importante para quem quer fazer códigos melhores e mais limpos. |
+| [50 Essential Tips for Every Developer.](https://dephraiim.hashnode.dev/50-essential-tips-for-every-developer)                                                                                                 | Ephraim Atta-Duncan - HashNode     | Um artigo importante para todos os desenvolvedores.                       |
+| [500 JavaScript Question & Answers with Explanation - DEV Community](https://dev.to/capscode/500-javascript-question-answers-with-explanation-29im#what-are-the-possible-ways-to-create-objects-in-javascript) | CapsCode - Dev.to                  | Um grande questionário sobre JS, para se preparar para entrevistas.       |
+| [RESTful API with Spring Boot, Spring Data JPA and MySQL](https://devwithus.com/build-rest-api-with-spring-boot-from-scratch/)                                                                                 | Azhwani - devmithus                | Um bom artigo para quem quer ou trabalha com desenvolvimento web.         |
