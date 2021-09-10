@@ -13,6 +13,7 @@ Este repositório contemplará uma coleção de links, aplicativos, dicas, e vá
     - [Mundo Open-Source](Links/MundoOpenSource.md)
     - [Notícias e Matérias](Links/Notícias.md)
     - [Repositórios GitHub](Links/Repositórios.md)
+    - [Telegram](Links/Telegram.md)
     - [Tutoriais](Links/Tutoriais.md)
     - [YouTube](Links/YouTube.md)
     - [Vagas](Links/Vagas.md)
