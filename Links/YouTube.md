@@ -17,7 +17,7 @@
 
 ## Playlists
 
-|                                                                 Nome                                                                |               Canal               |
+| Nome                                                                                                                                | Canal                             |
 |-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 | [4 robôs que criam vídeos no YouTube](https://www.youtube.com/playlist?list=PLMdYygf53DP4YTVeu0JxVnWq01uXrLwHi)                     | Filipe Deschamps                  |
 | [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)                                              | Aprenda Go                        |
@@ -37,10 +37,12 @@
 
 ## Vídeos
 
-|                                                                Nome                                                               |      Canal       |                                                                          Considerações                                                                           |
+| Nome                                                                                                                              | Canal            | Considerações                                                                                                                                                    |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Travei! Não Consigo Programar! // Vlog #92](https://www.youtube.com/watch?v=kLM9qIeuOqk)                                         | Código Fone TV   | Um vídeo que pode ajudar as pessoas que possuem dificuldades em pôr em prática o que aprendeu em programação.                                                    |
 | [680 Recursos Grátis para Programadores Frontend, Backend, DevOps e Designers](https://www.youtube.com/watch?v=tpaSZ8x21PI)       | Filipe Deschamps |                                                                                                                                                                  |
 | [9 DICAS QUE IRÃO TE FAZER UM PROGRAMADOR MELHOR](https://www.youtube.com/watch?v=gGhKxEWO7a4)                                    | DevMedia         | Um vídeo que traz importantes para o estudo de programação.                                                                                                      |
 | [Conheça o maior inimigo desse projeto (e de TODOS os outros)](https://www.youtube.com/watch?v=9wU3zxK8a34)                       | Filipe Deschamps | Esse vídeo faz parte de uma playlist, que mostra o desenvolvimento de um projeto, porém ela isoladamente ajuda a refletir em como nós *tocamos* nossos projetos. |
 | [Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego](https://www.youtube.com/watch?v=fYR9L2ZmodM)       | Filipe Deschamps |                                                                                                                                                                  |
 | [Entrevista de emprego: 3 dicas para ser um candidato irresistível (dicas da Pixar)](https://www.youtube.com/watch?v=DRacV64Mt1I) | Filipe Deschamps | Este vídeo pode ajudar em sua preparação para conseguir um emprego.                                                                                              |
+| [Eu fiz um dos melhores cursos de Programação do Mundo! (minhas impressões)](https://www.youtube.com/watch?v=elIl48sZ3rA)         | Filipe Deschamps | Este video traz alguns dos melhores cursos da área de tecnologia existentes.                                                                                     |
