@@ -1,7 +1,7 @@
 [Retorna](../README.md)
 
 # Cursos
-|                                   Site                                   |                                                                                          Descrição                                                                                          |
+| Site                                                                     | Descrição                                                                                                                                                                                   |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [AcademIA](https://www.microsoft.com/pt-br/academia)                     | Site com vários cursos, voltados para a área de Inteligência Artifical.                                                                                                                     |
 | [Alison](https://alison.com/)                                            | Um site que oferece cursos gratuitos de várias áreas do conhecimento.                                                                                                                       |
@@ -20,6 +20,7 @@
 | [Cursou](https://www.cursou.com.br/)                                     | Plataforma com mais de 2500 (segundo o site) cursos grátis.                                                                                                                                 |
 | [Cybrary](https://www.cybrary.it/)                                       | Site com contém uma boa quantidade de cursos, principalmente focados em segurança.                                                                                                          |
 | [Dash](https://dash.generalassemb.ly/)                                   | Um site que ensina HTML, CSS e JavaScript gratuitamente.                                                                                                                                    |
+| [Data Science Academy](https://www.datascienceacademy.com.br/home)       | Um site com cursos voltados para a área de Data Science (ciência de dados).                                                                                                                 |
 | [Digital Innovation One](https://digitalinnovation.one/)                 | Plataforma com cursos gratuitos na área de desenvolvimento.                                                                                                                                 |
 | [Eduonix](https://www.eduonix.com/)                                      | Uma plataforma de cursos online similar a Udemy, com uma boa gama de cursos online.                                                                                                         |
 | [edX](https://www.edx.org/)                                              | Uma plataforma com vários cursos online, de algumas das maiores universidades do mundo.<br>[Este link se refere aos cursos da Universidade de Harvard](https://www.edx.org/school/harvardx) |
