@@ -68,6 +68,24 @@ Endereço alterado: https://github1s.com/rt-oliveira/ConteudosTI
 </details>
 
 <details>
+	<summary>Principais teclas de atalho do Visual Studio Code</summary>
+
+| Tecla                 | Descrição                                           |
+|-----------------------|-----------------------------------------------------|
+| Alt + Click           | Insere um cursor                                    |
+| Ctrl + F2             | Seleciona todas as ocorrências do texto selecionado |
+| Ctrl + ;              | Comenta/Descomenta as linhas selecionadas           |
+| Ctrl + B              | Mostra/esconde a barra lateral                      |
+| Ctrl + Shift + Espaço | Mostra definição dos parâmetros                     |
+| F1                    | Abre paleta de comandos                             |
+| F12                   | Vai para a definição da função/método               |
+| Shift + Alt + F       | Formata todo o documento                            |
+
+**Fonte: Instagram @pycodebr**</br>
+[Link original](https://www.instagram.com/p/CaPl1Zus22X/)
+</details>
+
+<details>
 	<summary>Qual linguagem deveria estudar primeiro?</summary>
 
 ![Qual linguagem deveria estudar primeiro?](Imagens/qualLinguagemEstudarPrimeiro.jpg)

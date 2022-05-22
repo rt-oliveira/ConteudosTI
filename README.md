@@ -31,3 +31,5 @@ Alguns desses conteúdos que estão nesse repositório foram descobertos por cau
 - [Canal do Youtube Brazilian Dev](https://www.youtube.com/channel/UCkp0JNT8YeVnZHguGO5n5PA)
 - [Canal do Youtube Código Fonte TV](https://www.youtube.com/user/codigofontetv) (Um ótimo canal sobre programação e tecnologia)
 - [Canal do Youtube Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- Conteúdos de Instagram:
+  - @pycodebr
