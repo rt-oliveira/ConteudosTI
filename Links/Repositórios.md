@@ -52,6 +52,7 @@
 | [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges)         | Um repositório que reúne desafios de programação, relativos ao JavaScript, de entrevistas de emprego.                                             |
 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)                                         | Repositório que busca explicar muitos detalhes da linguagem Python.                                                                               |
 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)                         | Um repositório que contém uma grande quantidade de códigos em JavaScript de algoritmos conhecidos e de estruturas de dados.                       |
+| [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)     | Um repositório que possui um guia de estudos de Ciência da Computação para quem aprender de maneira autodidata.                                   |
 
 ## Vagas
 
