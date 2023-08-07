@@ -9,6 +9,7 @@ Este repositório contemplará uma coleção de links, aplicativos, dicas, e vá
     - [Cursos](Links/Cursos.md)
     - [Desafios de Programação (Programação Competitiva)](Links/DesafiosProgramação.md)
     - [Guias e Livros](Links/GuiasLivros.md)
+    - [Inteligência Artificial](Links/IA.md)
     - [Ideias de Projeto](Links/IdeiasProjeto.md)
     - [Mundo Open-Source](Links/MundoOpenSource.md)
     - [Notícias e Matérias](Links/Notícias.md)
