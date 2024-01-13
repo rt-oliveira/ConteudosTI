@@ -2,6 +2,12 @@
 
 # Repositórios GitHub
 
+## IA
+
+| Repositório                                                                                                    | Descrição                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md) | Repositório com recursos gratuitos sobre o ChatGPT, sendo, **principalmente**, sites para poder usar o ChatGPT, inclusive sem precisar de login. |
+
 ## Ideias de Projeto
 
 | Repositório                                                                                   | Descrição                                                                                                                    |
