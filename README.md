@@ -20,6 +20,7 @@ Este repositório contemplará uma coleção de links, aplicativos, dicas, e vá
     - [Vagas](Links/Vagas.md)
     - [Outros links](Links/Outros.md)
 - [Aplicativos](Aplicativos.md)
+- [Extensões para navegadores](Extensões.md)
 - [Dicas](Dicas.md)
 
 ---
